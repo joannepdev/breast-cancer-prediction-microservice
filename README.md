@@ -3,7 +3,7 @@
 A repository featuring a Breast Cancer Prediction microservice and uses FastAPI.
 
 The microservice project uses the Breast Cancer Wisconsin dataset, which consists of 569 values and 30 columns.
-Each record also consists ofQ
+Each record also consists of:
 - diagnosis (either Benign or Malignant)
 - radius
 - texture
