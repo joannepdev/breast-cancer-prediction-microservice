@@ -76,7 +76,7 @@ If you want to deactivate your virtual environment:
 ### Import Libraries
 First, import necessary libraries/packages needed for the process to take place.
 
-### Read Dataframe from CSV File
+### Read Dataset from CSV File
 
 It is important to read the dataset and create a dataframe before preprocessing.
 Note that the dataset needs to be downloaded locally in order to be used.
